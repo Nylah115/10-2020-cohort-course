@@ -1,4 +1,5 @@
 # Vets In Tech Web Development Course
+open http://google.com
 
 ## Week 1 Day 4
 
