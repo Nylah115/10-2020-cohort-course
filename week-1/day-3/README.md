@@ -13,6 +13,9 @@
 - Git Remote Add && Git Pull
 - What is CSS?
 - Connecting Style To Structure
+    Inline
+    Internal
+    External
 - How the Internet/Browser Works
 - What Can We do with CSS?
   - Color
