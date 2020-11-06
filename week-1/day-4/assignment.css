@@ -1,9 +1,12 @@
 div {
-    border: solid 1px black;
+    border: solid 5px black;
     width: 32%;
     display: inline-block;
     text-align: center
 }
+
 .underline{
     text-decoration: underline;
 }
+
+
